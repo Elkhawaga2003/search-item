@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: aliceblue;
+}
+
+.navg {
+    margin-left: 1rem;
+}
+
+.control {
+    margin-top: 20rem;
+    text-align: center;
+}
+
+#add {
+    border-radius: 2rem;
+}
